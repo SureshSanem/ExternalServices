@@ -1,3 +1,4 @@
+/*
 package com.jocata.externalservices.util;
 
 import org.hibernate.Session;
@@ -87,3 +88,4 @@ public class HibernateUtil {
     }
 }
 
+*/

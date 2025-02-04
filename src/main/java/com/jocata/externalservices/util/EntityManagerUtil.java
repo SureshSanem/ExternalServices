@@ -1,3 +1,4 @@
+/*
 package com.jocata.externalservices.util;
 
 public class EntityManagerUtil {
@@ -77,3 +78,4 @@ public class EntityManagerUtil {
     }
 
 }
+*/
